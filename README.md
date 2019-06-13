@@ -12,3 +12,11 @@
 
 ## 更多 V2Ray 教程文章
 https://github.com/233boy/v2ray/wiki
+
+## 可以自行安装
+"""
+git clone https://github.com/233boy/v2ray -b master
+cd v2ray
+chmod +x install.sh
+./install.sh local
+"""
